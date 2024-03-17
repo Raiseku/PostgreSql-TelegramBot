@@ -1,5 +1,7 @@
 # **Telegram Chatbot with PostgreSQL Integration**
 
+Youtube explanation video: https://youtu.be/z5JT-bPdusY
+
 This repository contains a Python script to create a Telegram chatbot capable of connecting to a PostgreSQL database and performing CRUD (Create, Read, Update, Delete) operations. The bot is built using the Aiogram library for Telegram bot development and psycopg2 for PostgreSQL database interaction.
 
 ## **Prerequisites**
